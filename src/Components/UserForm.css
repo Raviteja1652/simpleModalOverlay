@@ -1,0 +1,8 @@
+.user-form {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+    /* align-items: center; */
+    background-color: rgb(107, 198, 198);
+}
